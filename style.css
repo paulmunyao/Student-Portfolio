@@ -43,7 +43,7 @@ body {
   letter-spacing: 0.37px;
   color: #091e42;
   margin-left: 230px;
-  margin-top: 150px;
+  margin-top: 10px;
 }
 
 .description {
@@ -53,6 +53,7 @@ body {
   font-size: 20px;
   line-height: 28px;
   margin-left: 230px;
+  margin-top: 0px;
   color: #344563;
 }
 
@@ -77,8 +78,65 @@ body {
 }
 
 .eclip-12 {
-  margin-left: -65px;
+  margin-left: -45px;
   transform: rotate(18.88deg);
   width: 80.48px;
   height: 40.24px;
+}
+
+.pic {
+  align-items: center;
+  margin-left: 500px;
+  margin-top: -50px;
+}
+
+.rect-7 {
+  width: 56.01px;
+  height: 10.02px;
+  margin-left: 150px;
+  margin-bottom: -15px;
+  background: #6070ff;
+  transform: matrix(0.98, -0.21, -0.21, -0.98, 0, 0);
+}
+
+#eclip-5 {
+  width: 23px;
+  height: 23px;
+  margin-left: -30px;
+  margin-bottom: -35px;
+}
+
+.pict {
+  margin-left: 1000px;
+}
+
+.rect-4 {
+  margin-bottom: 140px;
+  margin-right: -140px;
+}
+
+.picture {
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.elip-4 {
+  margin-bottom: -38px;
+  margin-left: -50px;
+}
+
+.pictures {
+  margin-left: 700px;
+  margin-top: -30px;
+}
+
+#eclip-4 {
+  width: 47px;
+  height: 47px;
+  margin-left: -60px;
+  margin-bottom: 40px;
+}
+
+rect-5 {
+  margin-right: 650px;
 }
