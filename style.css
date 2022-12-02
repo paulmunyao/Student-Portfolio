@@ -2,15 +2,13 @@ body {
   position: absolute;
   width: 1440px;
   height: 916px;
-  left: 0px;
-  top: 1px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .logo {
   width: 76px;
   height: 20px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -33,7 +31,7 @@ body {
 }
 
 .about {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
@@ -47,18 +45,17 @@ body {
 }
 
 .description {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
   margin-left: 230px;
-  margin-top: 0px;
-  color: #344563;
+  margin-top: -60px;
 }
 
 .connect {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -69,8 +66,6 @@ body {
 
 .social-img {
   margin-left: 230px;
-  /* justify-content: space-between; */
-  /* display: inline-block; */
 }
 
 .rect-6 {
@@ -137,6 +132,6 @@ body {
   margin-bottom: 40px;
 }
 
-rect-5 {
+.rect-5 {
   margin-right: 650px;
 }
