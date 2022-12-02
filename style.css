@@ -36,3 +36,13 @@
   margin-left: 230px;
   margin-top: 150px;
 }
+
+.description {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-left: 230px;
+  color: #344563;
+}
