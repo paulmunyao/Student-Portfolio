@@ -72,11 +72,13 @@ body {
   /* display: inline-block; */
 }
 
-.rect-6{
-margin-left: 40px;
+.rect-6 {
+  margin-left: 40px;
 }
 
-.eclip-12{
-    margin-left: -65px;
-    transform: rotate(18.88deg);
+.eclip-12 {
+  margin-left: -65px;
+  transform: rotate(18.88deg);
+  width: 80.48px;
+  height: 40.24px;
 }
