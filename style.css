@@ -1,4 +1,11 @@
-
+body {
+  position: absolute;
+  width: 1440px;
+  height: 916px;
+  left: 0px;
+  top: 1px;
+  background: #ffffff;
+}
 
 .logo {
   width: 76px;
