@@ -66,8 +66,6 @@ body {
 
 .social-img {
   margin-left: 230px;
-  /* justify-content: space-between; */
-  /* display: inline-block; */
 }
 
 .rect-6 {
@@ -134,6 +132,6 @@ body {
   margin-bottom: 40px;
 }
 
-rect-5 {
+.rect-5 {
   margin-right: 650px;
 }
