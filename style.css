@@ -75,3 +75,8 @@ body {
 .rect-6{
 margin-left: 40px;
 }
+
+.eclip-12{
+    margin-left: -65px;
+    transform: rotate(18.88deg);
+}
