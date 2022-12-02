@@ -1,3 +1,5 @@
+
+
 .logo {
   width: 76px;
   height: 20px;
@@ -55,4 +57,8 @@
   line-height: 24px;
   margin-left: 230px;
   color: #7f8cff;
+}
+
+.social-img {
+  margin-left: 230px;
 }
