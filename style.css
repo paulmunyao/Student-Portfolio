@@ -212,3 +212,18 @@ body {
 .folio{
   margin-left: 950px;
 }
+
+.butt{
+  color: #396DF2;
+  border-radius: 10px;
+  width: 124px;
+  height: 48px;
+  margin-top: 40px;
+}
+
+.snapp{
+  width: 500px;
+  height: 420px;
+  margin-left: 850px;
+  margin-top: -250px;
+}
