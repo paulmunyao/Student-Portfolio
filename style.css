@@ -242,7 +242,7 @@ body {
   margin-left: 300px;
 }
 
-.list{
+.list {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -251,11 +251,11 @@ body {
   color: #6b778c;
 }
 
-.boo{
+.boo {
   list-style: none;
 }
 
-.por{
+.por {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -263,7 +263,7 @@ body {
   color: #6b778c;
 }
 
-.skill{
+.skill {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
