@@ -3,6 +3,7 @@ body {
   width: 1440px;
   height: 916px;
   background: #fff;
+  overflow-x: hidden;
 }
 
 .logo {
@@ -128,10 +129,86 @@ body {
 #eclip-4 {
   width: 47px;
   height: 47px;
-  margin-left: -60px;
-  margin-bottom: 40px;
+  margin-left: 90px;
+  margin-bottom: -50px;
 }
 
 .rect-5 {
   margin-right: 650px;
+}
+
+.snap {
+  width: 500px;
+  height: 420px;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.fac {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 950px;
+  margin-top: -400px;
+  color: #091e42;
+}
+
+.face {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #344563;
+}
+
+.lis {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  display: flex;
+  color: #6b778c;
+}
+
+.book{
+  list-style: none;
+}
+
+.port {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6b778c;
+}
+
+.skills {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  color: #6070ff;
+  display: flex;
+  text-indent: 30px;
+  margin-left: -30px;
+  list-style: none;
+  text-align: center;
+}
+
+.but {
+  border-radius: 10px;
+  width: 124px;
+  height: 48px;
+  background: #4053fc;
+  position: absolute;
+  margin-top: 40px;
+}
+
+.portfolio{
+  margin-left: 40px;
+  margin-top: 150px;
+}
+
+.folio{
+  margin-left: 950px;
 }
