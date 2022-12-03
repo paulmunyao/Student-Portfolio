@@ -15,6 +15,7 @@ body {
   font-size: 18px;
   line-height: 20px;
   display: flex;
+  text-decoration: none;
   color: #6070ff;
   margin-left: 120px;
   margin-top: 40px;
@@ -65,8 +66,10 @@ body {
   color: #7f8cff;
 }
 
-.social-img {
+.social-media {
   margin-left: 230px;
+  display: flex;
+  list-style: none;
 }
 
 .rect-6 {
@@ -171,7 +174,7 @@ body {
   color: #6b778c;
 }
 
-.book{
+.book {
   list-style: none;
 }
 
@@ -204,11 +207,73 @@ body {
   margin-top: 40px;
 }
 
-.portfolio{
+.portfolio {
   margin-left: 40px;
   margin-top: 150px;
 }
 
-.folio{
+.folio {
   margin-left: 950px;
+}
+
+.butt {
+  color: #396df2;
+  border-radius: 10px;
+  width: 124px;
+  height: 48px;
+  margin-top: 40px;
+}
+
+.snapp {
+  width: 500px;
+  height: 420px;
+  margin-left: 890px;
+  margin-top: -550px;
+}
+
+.fa {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 300px;
+  margin-top: 250px;
+  color: #091e42;
+}
+
+.io {
+  margin-left: 300px;
+}
+
+.list {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  display: flex;
+  color: #6b778c;
+}
+
+.boo {
+  list-style: none;
+}
+
+.por {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6b778c;
+}
+
+.skill {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  color: #6070ff;
+  display: flex;
+  text-indent: 30px;
+  margin-left: -30px;
+  list-style: none;
+  text-align: center;
 }
